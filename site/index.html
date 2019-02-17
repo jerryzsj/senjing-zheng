@@ -4,6 +4,13 @@
   	<meta charset="utf-8"></meta>
     <title>This is java tutorial</title>
   </head>
+  <h1 id="content">This is the content table</h1>
+    <section>
+    	<li><a href="#section1">section1</a></li>
+    	<li><a href="#section2">section2</a></li>
+    	<li><a href="#section3">section3</a></li>
+
+    </section>
   <body>
     <h1 style="color: green; font-size: 60px; text-align: center;">HTML is Structure Only</h1>
     <p style="margin: 0 100px 0 100px; font-size: 1.5em;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae temporibus esse suscipit nisi ad.</p>
@@ -19,17 +26,55 @@
     			<li>Peel</li>
     			<li>Place another cookie</li>
     			<li>Put back</li>
+    			<ul>
+    				<li>a&gt;</li>
+    				<li>b&lt;</li>
+    				<li>c&amp;</li>
+    			</ul>
     		</ol>
     		<li>Enjoy!</li>
     	</ol>
 
     </div>
+    <h1>Internal Links</h1>
+    <section>
+    	We can link to a file in the same directory as this HTML file like this:
+    	<a href="linked.html" title="same dir link">Linking to to file in the same directory</a>
+    	<a href="linked.html" title="same dir link">
+    		<div>DIV Linking to a fiel in the same directory</div>
+    	</a> 
+    </section>
+    <section>
+    	<p>
+    		Let's link to google page
+    		<div>
+    			<a href="http://www.google.co.uk" target="_blank" title="Google it!">
+    				Google it
+    			</a>    			
+    		</div>
+    	</p>
+    </section>
+    
+    <section id="section1">
+    	<h2>This is section 1</h2>
+    	<p>This is content of section 1</p>
+    </section>
+    <section id="section2">
+    	<h2>This is section 2</h2>
+    	<p>This is content of section 2</p>	
+    </section>
+    <div id="section3">This is div</div>
+    <p>
+    	This paragraph will display image:
+    	<p><img src="picture-with-quote.jpg" width="200" height="235" alt="Picture with a quote"></p>
+    	&quot;adfb
+    </p>
 
     <footer>
       <hr>
       <p style="text-align: center;" 
          onclick="alert('EMAILING US IS USELESS');">
-         Tech Support: yeah.right@server-is-down.com
+         Tech Support: yeah.right@server-is-down.com &copy;
       </p>
     </footer>
   </body>

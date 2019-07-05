@@ -2,36 +2,24 @@
 
 ### I am Senjing Zheng, a PhD student in 3D vision and Robotics at University of Birmingham.
 
-The page is based on GitHub and [Jekyll](https://jekyllrb.com/).
-
-I am mainly using this page to note some instructions for Ubuntu coding with vision and robotics. 
+### I am mainly using this page to note some instructions for Ubuntu coding with vision and robotics. 
 
 ### What u can find in this page
 
-My name is Senjing Zheng
+- Install Chrome-stable
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Install Sublime3-merge
 
-```markdown
-Syntax highlighted code block
+- Install latest cmake and cmake-gui
 
-# Header 1
-## Header 2
-### Header 3
+- Install CUDA-10.0
 
-- Bulleted
-- List
+- Install Opencv-3.4
 
-1. Numbered
-2. List
+- Install Chrome-stable
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+### Thanks to:
+GitHub and [Jekyll](https://jekyllrb.com/).
 
 ### Support or Contact
 

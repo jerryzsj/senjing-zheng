@@ -6,7 +6,7 @@
 
 ### What u can find in this page
 
-- Install Chrome-stable
+- [Install Chrome](https://jerryzsj.github.io/senjing-zheng/chrome)
 
 - Install Sublime3-merge
 

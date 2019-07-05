@@ -1,8 +1,12 @@
-## Hi! I am Senjing Zheng, a PhD student in 3D vision and Robotics at University of Birmingham.
+# Hi! 
+
+### I am Senjing Zheng, a PhD student in 3D vision and Robotics at University of Birmingham.
 
 The page is based on GitHub and [Jekyll](https://jekyllrb.com/).
 
-### Who I am
+I am mainly using this page to note some instructions for Ubuntu coding with vision and robotics. 
+
+### What u can find in this page
 
 My name is Senjing Zheng
 

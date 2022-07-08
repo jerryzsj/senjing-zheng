@@ -8,7 +8,7 @@
 
 - [Install Chrome](https://jerryzsj.github.io/senjing-zheng/chrome)
 
-- Install Sublime3-merge
+- Install Docker on Windows
 
 - Install latest cmake and cmake-gui
 

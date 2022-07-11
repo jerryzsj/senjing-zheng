@@ -6,11 +6,11 @@
 
 ### What u can find in this page
 
+- [Setup SSH in Windows](https://jerryzsj.github.io/senjing-zheng/setup_ssh)
+
 - [Install Chrome](https://jerryzsj.github.io/senjing-zheng/install_chrome)
 
 - Install Docker on Windows
-
-- [Setup SSH in Windows](https://jerryzsj.github.io/senjing-zheng/setup_ssh)
 
 - Install CUDA-10.0
 

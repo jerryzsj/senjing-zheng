@@ -1,29 +1,15 @@
-<!-- <!DOCTYPE html>
-<html>
-<head>
-	<title>How to setup SSh in windows</title>
-</head>
-<body>
+# How to setup WSL2 in windows
 
-<h2>Step by step to setup SSh in windows</h2> -->
+## Step 1
 
-# How to setup SSh in windows
-
-### Step 1: make sure the ssh-agent was installed (refer to: https://www.partitionwizard.com/partitionmagic/ssh-client-win10.html)
+### Open PowerShell with Admin and run: 
+###dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
 
-### Step 2: generate ssh-key: ssh-keygen
+## Step 2: To set the default WSL version as WSL2:
+###wsl --set-default-version 2
 
+## Step 3: Download Ubuntu20.04 and install
+###wsl --install -d ubuntu-20.04
 
-### Step 3: add key into ssh-client: ssh-add $KEY_NAME$
-
-
-### Step 3.1: if error occurred while adding key: open "Windows PowerShell" with Admin, and run: Get-Service ssh-agent | Set-Service -StartupType Automatic -PassThru | Start-Service
-
-
-### Step 3.2: reboot, and rerun: ssh-add $KEY_NAME$
-
-</<!-- body>
-</html>
-
-<link rel="stylesheet" href="http://example.com/css/main.css"> -->
+## Enjoy

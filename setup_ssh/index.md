@@ -1,15 +1,16 @@
-# How to setup WSL2 in windows
+# How to setup SSH in windows
 
 ## Step 1
 
 ### Open PowerShell with Admin and run: 
-###dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+### Get-Service ssh-agent | Set-Service -StartupType Automatic -PassThru | Start-Service
 
+## Step 2: To generate ssh-key:
+### ssh-keygen
 
-## Step 2: To set the default WSL version as WSL2:
-###wsl --set-default-version 2
+## Step 3: Reboot
 
-## Step 3: Download Ubuntu20.04 and install
-###wsl --install -d ubuntu-20.04
+## Step 4: Add ssh-key into the ssh-agent
+### ssh-add $SSH-KEY-NAME$
 
 ## Enjoy

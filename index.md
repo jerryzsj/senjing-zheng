@@ -8,9 +8,9 @@
 
 - [Setup SSH in Windows](https://jerryzsj.github.io/senjing-zheng/setup_ssh)
 
-- [Install Chrome](https://jerryzsj.github.io/senjing-zheng/install_chrome)
-
 - [Setup WSL2 in Windows](https://jerryzsj.github.io/senjing-zheng/setup_wsl2)
+
+- [Install Chrome](https://jerryzsj.github.io/senjing-zheng/install_chrome)
 
 - Install CUDA-10.0
 

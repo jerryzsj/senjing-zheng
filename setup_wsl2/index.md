@@ -5,7 +5,6 @@
 ### Open PowerShell with Admin and run: 
 ### dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
-
 ## Step 2: To set the default WSL version as WSL2:
 ### wsl --set-default-version 2
 

@@ -12,7 +12,7 @@
 
 - [Install Chrome](https://jerryzsj.github.io/senjing-zheng/install_chrome)
 
-- [Setup WSL2 in Windows](https://jerryzsj.github.io/senjing-zheng/setup_wsl2)
+- [Setup WSL2 in Windows](https://jerryzsj.github.io/senjing-zheng/setup_wsl2-bak)
 
 - Install Opencv-3.4
 

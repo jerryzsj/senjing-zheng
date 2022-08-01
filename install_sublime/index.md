@@ -1,10 +1,13 @@
-# How to setup SSH in windows
+# How to install sublime in Ubuntu
 
 ## Step 1
 
-### Open PowerShell with Admin and run: 
+### Install dependencies: 
 
-Get-Service ssh-agent | Set-Service -StartupType Automatic -PassThru | Start-Service
+```bash
+sudo apt-get update
+sudo apt install dirmngr gnupg apt-transport-https ca-certificates software-properties-common
+```
 
 ## Step 2: To generate ssh-key:
 

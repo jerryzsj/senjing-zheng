@@ -1,7 +1,6 @@
 # How to install sublime in Ubuntu
 
 ## Step 1
-
 ### Install dependencies: 
 
 ```bash
@@ -9,18 +8,18 @@ sudo apt-get update
 sudo apt install dirmngr gnupg apt-transport-https ca-certificates software-properties-common
 ```
 
-## Step 2: To generate ssh-key:
+## Step 2:
+### Add apt-key into the apt-repository
+```bash
+curl -fsSL https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+sudo add-apt-repository "deb https://download.sublimetext.com/ apt/stable/"
+```
 
-ssh-keygen
-
-## Step 3: Reboot
-
-## Step 4: Add ssh-key into the ssh-agent
-
-ssh-add $SSH-KEY-NAME$
+## Step 3: 
+### update and install sublime
+```bash
+sudo apt-get update
+sudo apt install sublime-text
+```
 
 ## Enjoy
-
-
-<!-- $ ssh-agent /bin/sh
-$ ssh-add $yourkey -->

@@ -1,4 +1,4 @@
-# How to install sublime in Ubuntu
+# How to install Sublime in Ubuntu
 
 ## Step 1
 ### Install dependencies: 

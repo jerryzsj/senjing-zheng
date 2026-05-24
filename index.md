@@ -6,6 +6,8 @@
 
 ### What u can find in this page
 
+- [Install Ubuntu & Windows DualBoot](https://jerryzsj.github.io/senjing-zheng/install_dual_boot_OS)
+
 - [Setup SSH in Windows](https://jerryzsj.github.io/senjing-zheng/setup_ssh)
 
 - [Setup WSL2 in Windows](https://jerryzsj.github.io/senjing-zheng/setup_wsl2)
@@ -14,7 +16,6 @@
 
 - [Setup AliSourcelist in Windows](https://jerryzsj.github.io/senjing-zheng/setup_ubuntuSourcelist)
 
-- [Install Sublime](https://jerryzsj.github.io/senjing-zheng/install_sublime)
 
 - Install Chrome-stable
 

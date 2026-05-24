@@ -6,7 +6,7 @@
 
 ### What u can find in this page
 
-- [Install Ubuntu & Windows DualBoot](https://jerryzsj.github.io/senjing-zheng/install_dual_boot_OS)
+- [Install Ubuntu & Windows DualBoot](https://jerryzsj.github.io/senjing-zheng/install_sublime)
 
 - [Setup SSH in Windows](https://jerryzsj.github.io/senjing-zheng/setup_ssh)
 
